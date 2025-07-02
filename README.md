@@ -34,6 +34,4 @@ To maintain a responsible and respectful environment, we ask contributors to fol
 ## 📌 Stay Updated
 Stay in the loop with new releases and improvements by following us on GitHub and checking for new commits and tags.
 
-[Download Now](https://softspace.space/)](https://softspace.space/)
-
 Level up your Rust experience with **VILONITY**—a macro pack built for control, precision, and player empowerment.
